@@ -2,7 +2,7 @@
 
 <br />
 
-<h2>About Me</h2>
+<h2>About me</h2>
 
 <p>Hello! I'm <b>Ratchapol Thongta</b>, a passionate software developer with a focus on building dynamic, scalable web applications. I have a deep love for coding and problem-solving, and I constantly strive to improve my skills with new technologies. I enjoy working with a variety of programming languages, frameworks, and tools to build modern solutions that provide value and enhance user experience.</p>
 
@@ -16,7 +16,7 @@
 
 <h2>Skills</h2>
 
-<h3>Programming Languages</h3>
+<h3>Programming languages</h3>
 
 <table>
   <tr>
@@ -105,6 +105,11 @@
         <img src="https://skillicons.dev/icons?i=yarn&perline=1&theme=light" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=maven&perline=1&theme=light" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -118,6 +123,9 @@
     </td>
     <td align="center">
       YARN
+    </td>
+    <td align="center">
+      Maven
     </td>
   </tr>
 </table>
@@ -159,6 +167,11 @@
         <img src="https://skillicons.dev/icons?i=nextjs&perline=1&theme=light" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring&perline=1&theme=light" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -181,26 +194,6 @@
     </td>
     <td align="center">
       NextJS
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=maven&perline=1&theme=light" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring&perline=1&theme=light" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Maven
     </td>
     <td align="center">
       Spring Boot
