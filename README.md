@@ -298,6 +298,22 @@
   </tr>
 </table>
 
+<h2>Stats and Activity</h2>
+
+<details>
+  <summary><b>GitHub Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratchapolttum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
+
+<details>
+  <summary><b>GitHub Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ratchapolttum&hide_border=true" />
+</details>
+
 <br />
 
 <p>Feel free to explore my repositories to see what I'm currently working on or to collaborate on exciting new projects.</p>
