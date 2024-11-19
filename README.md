@@ -301,17 +301,21 @@
 <h2>Stats and Activity</h2>
 
 <details>
-  <summary><b>GitHub Stats</b></summary>
+  <summary><b>GitHub stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratchapolttum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ratchapolttum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" height="180em" />
+  </div>
 </details>
 
 <details>
-  <summary><b>GitHub Streaks</b></summary>
+  <summary><b>GitHub streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ratchapolttum&hide_border=true" />
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratchapolttum&hide_border=true" height="180em" />
+  </div>
 </details>
 
 <br />
