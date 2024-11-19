@@ -20,37 +20,37 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=typescript&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=css&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=md&perline=1&theme=light" />
       </a>
@@ -85,27 +85,27 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=npm&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=pnpm&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=yarn&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=maven&perline=1&theme=light" />
       </a>
@@ -132,51 +132,43 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=expressjs&perline=1&theme=light" />
-      </a>
-    </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nestjs&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vuejs&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nuxtjs&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nextjs&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=spring&perline=1&theme=light" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      ExpressJS
-    </td>
     <td align="center">
       NestJS
     </td>
@@ -203,17 +195,17 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tailwind&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" />
       </a>
@@ -236,12 +228,12 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" />
       </a>
@@ -261,27 +253,27 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=gitlab&perline=1&theme=light" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="130">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" />
       </a>
@@ -301,7 +293,7 @@
       GitLab
     </td>
     <td align="center">
-      Visual Studio Code
+      VSCode
     </td>
   </tr>
 </table>
