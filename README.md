@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-<p>Hello! I'm <b>Ratchapol Thongta</b>, a passionate software developer with a focus on building dynamic, scalable web applications. I have a deep love for coding and problem-solving, and I constantly strive to improve my skills with new technologies. I enjoy working with a variety of programming languages, frameworks, and tools to build modern solutions that provide value and enhance user experience.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Hello! I'm <b>Ratchapol Thongta</b>, a passionate software developer with a focus on building dynamic, scalable web applications. I have a deep love for coding and problem-solving, and I constantly strive to improve my skills with new technologies. I enjoy working with a variety of programming languages, frameworks, and tools to build modern solutions that provide value and enhance user experience.</p>
 
 <h2>Connect with me</h2>
 
@@ -325,7 +325,7 @@
 
   <br />
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ratchapolttum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ratchapolttum&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" height="180em" />
   </div>
 </details>
 
@@ -336,6 +336,6 @@
 
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratchapolttum&hide_border=true" height="180em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratchapolttum&hide_border=false" height="180em" />
   </div>
 </details>
