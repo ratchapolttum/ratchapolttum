@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, Welcome to my Github Page</h1>
+<h1 align="center">Hi There, Welcome to my GitHub Page</h1>
 
 <br />
 
@@ -18,7 +18,7 @@
 
 <details>
   <summary>
-    <b>Programming languages</b>
+    <b>Programming languages, Stylesheet languages and Markup languages</b>
   </summary>
 
   <br />
@@ -39,6 +39,21 @@
           <img src="https://skillicons.dev/icons?i=java&perline=1&theme=light" />
         </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        JavaScript
+      </td>
+      <td align="center">
+        TypeScript
+      </td>
+      <td align="center">
+        Java
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
       <td align="center" width="130">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html&perline=1&theme=light" />
@@ -61,15 +76,6 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        JavaScript
-      </td>
-      <td align="center">
-        TypeScript
-      </td>
-      <td align="center">
-        Java
-      </td>
       <td align="center">
         HTML
       </td>
@@ -170,11 +176,6 @@
           <img src="https://skillicons.dev/icons?i=nextjs&perline=1&theme=light" />
         </a>
       </td>
-      <td align="center" width="130">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=spring&perline=1&theme=light" />
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -195,8 +196,27 @@
       <td align="center">
         NextJS
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="45" />
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=hibernate&perline=1&theme=light" />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         Spring Boot
+      </td>
+      <td align="center">
+        Hibernate
       </td>
     </tr>
   </table>
