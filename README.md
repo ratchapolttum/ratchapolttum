@@ -292,11 +292,6 @@
     <tr>
       <td align="center" width="130">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker&perline=1&theme=light" />
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=git&perline=1&theme=light" />
         </a>
       </td>
@@ -310,16 +305,8 @@
           <img src="https://skillicons.dev/icons?i=gitlab&perline=1&theme=light" />
         </a>
       </td>
-      <td align="center" width="130">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" />
-        </a>
-      </td>
     </tr>
     <tr>
-      <td align="center">
-        Docker
-      </td>
       <td align="center">
         Git
       </td>
@@ -329,8 +316,86 @@
       <td align="center">
         GitLab
       </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" />
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=idea&perline=1&theme=light" />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         VSCode
+      </td>
+      <td align="center">
+        IntelliJ IDEA
+      </td>
+    </tr>
+  </table>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker&perline=1&theme=light" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Docker
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary>
+    <b>Learning</b>
+  </summary>
+
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=golang&perline=1&theme=light" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Go
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=bun&perline=1&theme=light" />
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=elysia&perline=1&theme=light" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Bun
+      </td>
+      <td align="center">
+        ElysiaJS
       </td>
     </tr>
   </table>
